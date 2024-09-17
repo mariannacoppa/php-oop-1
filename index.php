@@ -11,5 +11,15 @@
             $this->genre = $_genre;
             $this->year = $_year;
         }
+
+        // definisco due metodi
+        public function getMovieTitle() {
+            return $this->title;
+        }
+        function getMovieDetails() {
+            return $this->title." ".$this->genre." ".$this->year;
+        }
+
+        
     };
 ?>
