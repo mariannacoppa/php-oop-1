@@ -14,3 +14,11 @@ Facciamo attenzione all’organizzazione del codice, suddividendolo in appositi 
 - creando un file dedicato ai dati (tipo le array di oggetti) che potremmo chiamare db.php
 - mettendo ciascuna classe nel proprio file e magari raggruppare tutte le classi in una cartella dedicata che possiamo chiamare Models/
 - organizzando il layout dividendo la struttura ed i contenuti in file e parziali dedicati.
+
+Pseudocodice
+
+1. inizializzo la classe Movie nella quale dichiaro 3 variabili
+2. definisco un costruttore
+3. definisco due funzioni (metodi)
+4. definisco 3 oggetti
+5. stampo i valori delle proprietà dei 3 oggetti
