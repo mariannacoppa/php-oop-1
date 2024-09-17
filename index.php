@@ -20,6 +20,9 @@
             return $this->title." ".$this->genre." ".$this->year;
         }
 
-        
-    };
+        //definisco 3 oggetti e invoco il costruttre
+        $avatar = new Movie('Avatar', 'Fantascienza', '2009');
+        $big = new Movie('Big', 'Commedia', '1988');
+        $CastAway = new Movie('Cast Away', 'Drammatico', '2000');
+    }
 ?>

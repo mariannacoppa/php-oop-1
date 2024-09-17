@@ -20,5 +20,5 @@ Pseudocodice
 1. inizializzo la classe Movie nella quale dichiaro 3 variabili
 2. definisco un costruttore
 3. definisco due funzioni (metodi)
-4. definisco 3 oggetti
+4. definisco 3 oggetti e invoco il costruttre
 5. stampo i valori delle proprietà dei 3 oggetti
